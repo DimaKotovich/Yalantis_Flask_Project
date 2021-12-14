@@ -1,0 +1,28 @@
+########################################################################################################################
+
+All rout functions that that implemented in app.py are  working separately. And  if, for example
+func get_driver_by_id, is working now, other functions which has the same endpoint, for example delete_driver,
+must be commented.
+
+Thank you for understanding.
+
+########################################################################################################################
+
+This app include such functionality:
+1)add driver/vehicle
+2)create driver/vehicle
+3)delete driver/vehicle
+4)search by id driver/vehicle
+5)update driver/vehicle
+6)display all drivers/vehicles
+7)seat/get out the driver in to/of the vehicle
+8)display drivers who were created after/before 10-11-2021/16-11-2021
+9)display the cars with drivers or without them
+
+########################################################################################################################
+
+All the functions are implemented in the app.py.
+All models you can find in FlaskProject/models
+Config of the project you can find in Flask/__init__.py
+
+########################################################################################################################
